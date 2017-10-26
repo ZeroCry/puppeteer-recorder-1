@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer-recorder",
+  "version": "1.0.0",
+  "description": "A module that allows you record videos of puppeteer sessions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "recorder",
+    "puppeteer",
+    "video"
+  ],
+  "author": "samuelimolo4real@gmail.com",
+  "license": "MIT"
+}
